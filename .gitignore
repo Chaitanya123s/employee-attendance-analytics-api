@@ -1,0 +1,4 @@
+.env
+.venv312/
+candidate_kit/venv/
+__pycache__/
